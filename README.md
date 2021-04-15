@@ -53,14 +53,18 @@ in the market. The purpose of this assignment is to imporove our ability to unde
 Most common gauges include:   
 - fuel gauge 
 - temperature gauge. 
+
 Generally located right in front of the driver. 
 These are considered essential and are required to drive the vehicle safely
 
 2. Warning Lights:
 These are used to identify potential problems with the vehicle. Some of the warning lights are for simple problems while some are more serious. They could be indicating various issues such as oil change , Tire pressure, engine problems, battery , coolant , fuel , breaks, seat belt, door and air bags. Additionally, it could also be used to illuminate active functions such as turning on turn signals or hazard lights, A/C , Parking break. Climate control , media controls.
 Warning lights can be put in three categories based on their color:
+
 i. Red: A red warning light is usually a sign of an immediate problem that needs your attention right away. In some cases, it might not be safe to keep driving if you see a red warning light.
+
 ii. Yellow/Orange: Yellow and orange lights are usually advisories. They aren’t as urgent as red lights, but they still provide important information. For example, in most cars, the tire pressure sign, the low fuel sign, and the engine check sign are all yellow or orange. You can probably still drive the car safely for the time being, but something will require your attention soon.
+
 iii. Green/Blue: Green and blue warning lights are typically the least urgent signs. In most cases, they just appear for your information, and they don’t indicate that you need to do any work on your car. Most green and blue lights simply tell you that a feature is activated. For example, they may tell you that your high beams are on or that your car is in ECO mode.  
 
 3. Meters:
