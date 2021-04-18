@@ -104,37 +104,7 @@ public class speedometer : MonoBehaviour
                 if (tacoValue >= 1000f)
                     tacoValue -= tacoDeccel * Time.deltaTime;
 
-                /*   if (tacoValue >= 100f && speed == 0)
-                  {
-                      tacoValue -= tacoDeccel * Time.deltaTime;
-                  } */
 
-                /*  if (tacoValue <= 6000.0f && !tripped1)
-                 {
-                     if (gears > 1)
-                     {
-                         gears--;
-                         tripped1 = !tripped1;
-                     }
-                 }
-                 else if (tacoValue <= 4000.0f && !tripped2)
-                 {
-                     if (gears > 1)
-                     {
-                         gears--;
-                         tripped2 = !tripped2;
-                         tripped1 = false;
-                     }
-                 }
-                 else if (tacoValue <= 2000.0f && !tripped3)
-                 {
-                     if (gears > 1)
-                     {
-                         gears--;
-
-
-                     }
-                 } */
 
                 // Debug.Log(speed);
                 if (tacoValue <= 4000 && gears > 1)
