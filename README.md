@@ -1,11 +1,11 @@
-# HCI Project 2 : Car Dashboard Design Case study 
+# HCI Project 2 : Car Dashboard Design Case Study 
 
 
 ## Links
 
-1. Report Link:
-2. [Github Link](https://github.com/Wolfram235/MicrowaveDesignCaseStudy)
-3. [Youtube Link](https://youtu.be/PX9oo9QAwKQ)
+1. [Report Link](https://wolfram235.github.io/p2BenjaminPaul/)
+2. [Github Link](https://github.com/Wolfram235/p2BenjaminPaul)
+3. [Youtube Link](https://youtu.be/tMlMz_GZc-U)
 
 ## Objective
 
