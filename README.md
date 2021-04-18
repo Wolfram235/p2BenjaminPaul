@@ -37,7 +37,7 @@ in the market. The purpose of this assignment is to imporove our ability to unde
 
 ### Pros and Cons of Current Designs
 
-1. According to the paper [Usability of Car Dashboard Displays for Elder Drivers]() published in May 2011, Elderly drivers and young drivers gave primary importance to the speedometer and the fuel gauge. The tachometer was chosen as the least important instrument. Both the groups choose the odometer (used to show the distance that the vehicle has travelled) and the tachometer as the most difficult to find quickly. 
+1. According to the paper [Usability_of_car_dashboard_displays_for_elder_driv.pdf](https://github.com/Wolfram235/p2BenjaminPaul/files/6330275/Usability_of_car_dashboard_displays_for_elder_driv.pdf) published in May 2011, Elderly drivers and young drivers gave primary importance to the speedometer and the fuel gauge. The tachometer was chosen as the least important instrument. Both the groups choose the odometer (used to show the distance that the vehicle has travelled) and the tachometer as the most difficult to find quickly. 
 
 2. Engine temperature gauge is mostly used for long distance travel. This feature is useful to keep track of the engine temperature, when the engine is running for long distances at high speeds, Keeping the temperature in check allows the driver to make a decision to stop the car and let it cool down
 
