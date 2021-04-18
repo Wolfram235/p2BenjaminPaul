@@ -114,6 +114,9 @@ There are various meters provided on a car dashboard. These include: -
 
 ## Implented Dashboard
 
+![gif](https://user-images.githubusercontent.com/31333864/115133362-3585b800-9fcd-11eb-8e4f-2e705058e1e2.gif)
+
+
 ![Implement2](https://user-images.githubusercontent.com/31333864/115129907-0c0a6380-9fb0-11eb-8266-7cdf22555bc4.jpg)
 
 
