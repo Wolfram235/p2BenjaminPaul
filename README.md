@@ -107,8 +107,20 @@ There are various meters provided on a car dashboard. These include: -
 - Inspect seat belts for wear
 -	Adjust the seat belt for height and tension if required (where the seat belt comes out of the B pillar there’s often the ability to slide it up and down to adjust the height to suit your comfort)
 
-## Design Problems
-1. Some car models have more than one control on the 
+## Prototype Drawing
+
+![Prototype](https://user-images.githubusercontent.com/31333864/115129888-dd8c8880-9faf-11eb-928d-94ff3e466959.jpg)
+
+
+## Implented Dashboard
+
+![Implement1](https://user-images.githubusercontent.com/31333864/115129902-001ea180-9fb0-11eb-8935-94f8fe839415.jpg)
+
+![Implement2](https://user-images.githubusercontent.com/31333864/115129907-0c0a6380-9fb0-11eb-8266-7cdf22555bc4.jpg)
+
+
+
+
 
 
 
